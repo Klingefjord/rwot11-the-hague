@@ -63,8 +63,13 @@ _Please add a level three header (`###`) for your paper's topic if it's not ther
    * A proposal how to define a flexible and deterministic approach to verify the binding between the holder and the credential subject of the verifiable credential which is a blindspot of the W3C Verifiable Credentials Data Model 1.0 standard today.
    * #VerifiableCredentials #HolderBinding #2FA #Biometrics #Delegation
 
+### [Multi-dimensional reputation systems using Webs of Trust](./Multi-dimensional%20reputation%20systems%20using%20webs-of-trust.md)
+   * by [Oliver Klingefjord](mailto:hello@replabs.xyz), Replabs, Berlin.
+   * A proposal for a novel multi-dimensional reputation system framework for social media using language models and webs of trust.
+   * #Reputation #Webs-of-trust #Trust-networks
+
 ### ... more ...
-  
+
 ## Alphabetical Listing
 
 _Please also enter your paper alphabetically in the form:_
@@ -72,8 +77,10 @@ _Please also enter your paper alphabetically in the form:_
 ```
 * [Paper Name](link)
 ```
-*  [CESR adapter for sophisticated multisig](./CESR-adapter-for-sophisticated-multisig.md)
+
+* [CESR adapter for sophisticated multisig](./CESR-adapter-for-sophisticated-multisig.md)
 * [eSSIF-Lab: Towards a European SSI ecosystem](./eSSIF-Lab%20-%20Towards%20a%20European%20SSI%20ecosystem.md)
+* [Multi-dimensional reputation systems using Webs of Trust](./Multi-dimensional%20reputation%20systems%20using%20webs-of-trust.md)
 * [Verifiable Credentials Holder Binding](./verifiable-credentials-holder-binding.md)
 * ... more ...
 
