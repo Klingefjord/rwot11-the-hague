@@ -64,7 +64,14 @@ For example, one could query the scope of everyone in a twitter list for the rep
 
 In the example above, the edge linking `@pujaolhaver` and `@DrNickA` would count positively towards `@DrNickA`'s reputation when queried for "Reputation Systems" as the text in the tweet is semantically close to "Reputation Systems", and the sentiment in `@pujaohlaver`'s reply tweet is positive.
 
-It's important to note that this is a bare-bones example of how such a system could work, and comes with many caveats. For instance, sentiment is an imperfect proxy for an assessment. A thoughtful disagreement should arguably not count towards negative reputation for the content author in the eyes of the comment author.
+## Concerns
+
+It's important to note that this is a bare-bones example of how such a system could work, and comes with many caveats.
+
+First off, this system works on the assumption of transient assessments – meaning, someone frequently assessed should in turn have their assessment of others weigh heavier. This is not always the case. A frequently recommended physicist might have very poor judgement in other physicists, either out of incompetence in judging their abilities, or by their own self-interest or narcissism, thinking no-one is right but them. The more complex these systems become, one could imagine dimensions in a relationship between two nodes that account for "integrity" and "judgement in others".
+
+Furthermore, sentiment is an imperfect approximation of an assessment. Equating assessment to "positive comments" could end up creating echochambers that disincentives disagreements. Better tooling that allows for distinguishing 
+
 
 ## Conclusion
 
